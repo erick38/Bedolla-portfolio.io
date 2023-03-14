@@ -1,4 +1,5 @@
-
+welcome to my portfolio
+https://www.linkedin.com/in/israel-bedolla-500500205/
 ## Run these Commads
 ### Step 1
      pip install -r requirements.txt
