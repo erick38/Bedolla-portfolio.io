@@ -5,10 +5,10 @@
 ### Step 2
      python manage.py migrate
      
-### Step 4
+### Step 3
      python manage.py createsuperuser
         
-### Step 3
+### Step 4
      python manage.py runserver
 
   
